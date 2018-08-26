@@ -1,0 +1,21 @@
+From bf8ad19812aa09cfdd710d962da16ebeeeda0b95 Mon Sep 17 00:00:00 2001
+From: nay man <nayman.po@gmail.com>
+Date: Sun, 26 Aug 2018 17:39:19 +0700
+Subject: [PATCH] add more
+
+---
+ hello.c | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/hello.c b/hello.c
+index e69de29..882d053 100644
+--- a/hello.c
++++ b/hello.c
+@@ -0,0 +1,3 @@
++hello 
++
++djlfjsaflsja;fdj
+\ No newline at end of file
+-- 
+2.18.0.windows.1
+
